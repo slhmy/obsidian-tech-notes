@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": true,
+    "markdownlint.config": {
+        "no-inline-html": {
+            "allowed_elements": [
+                "img",
+                "details",
+                "summary",
+                "u",
+                "br"
+            ]
+        },
+        "first-line-h1": false
+    }
+}
